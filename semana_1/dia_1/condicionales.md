@@ -5,7 +5,7 @@ Aprender a usar las estructuras condicionales (`if`, `else`, `else if` y `switch
 
 ---
 
-## 1. Condicional `if`
+     1. Condicional `if`
 Sirve para ejecutar un bloque de código **solo si** una condición es verdadera.
 
  **Sintaxis:**
