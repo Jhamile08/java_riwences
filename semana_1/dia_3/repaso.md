@@ -2,12 +2,12 @@
 
 Patrón en pirámide
 Usa dos bucles for para imprimir:
-
+```java
     *
    ***
   *****
  *******
-
+```
 ### 🔹 while
 
 Inverso de un número
