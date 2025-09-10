@@ -84,12 +84,11 @@ Arrays:
 
 - Crea un array de 5 números enteros.
 - Recorre el array con un for y muestra cada número multiplicado por 2.
-- Luego crea un array sobre numeros con 6 posiciones de espacio y luego llenalo pidiendole al usuario
-por consola los numeros uno a uno
+- Luego crea un array sobre numeros con 6 posiciones de espacio y luego llenalo pidiendole al usuario por consola los numeros uno a uno
 
 ArrayList:
 
-- Crea un ArrayList<String> con al menos 4 nombres de tus compañeros.
+- Crea un ArrayList<String> con al menos 4 nombres de tus compañeros e imprimelo
 - Recorre el ArrayList e imprime: "Hola, <nombre>".
 
 HashMap:
