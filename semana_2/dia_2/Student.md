@@ -13,7 +13,7 @@ Cada alumno podrá tener un máximo de cuatro Asignaturas asociadas.
 - Cree la clase Asignatura que represente el nombre de la asignatura y la nota obtenida.
 - Debe contar con un método que devuelva si está Aprobada (nota ≥ 3.5) o Reprobada (nota < 3.5).
 
-Implemente polimorfismo definiendo un método abstracto en la clase Persona llamado mostrarInformacion().
+Implemente polimorfismo definiendo un método en la clase Persona llamado mostrarInformacion().
 
 En la clase Alumno, este método debe sobrescribirse para mostrar:
 
