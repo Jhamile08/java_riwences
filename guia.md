@@ -8,7 +8,7 @@
 
 - **Ejemplo:**  saludar(), todos los estudiantes, profesores saludan.
 
-![alt text](<Captura desde 2025-09-19 07-45-44.png>)
+![alt text](<images/greet.png>)
 
 
 
