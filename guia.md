@@ -25,6 +25,6 @@
 
 Observa que estamos implementando los metodos de la interface pero agrengandole la logica
 
-Por ultimo veamos como usamos estas fincones
+Por ultimo veamos como pedimos los datos al usuario y usamos los motodos de service
 
 ![alt text](<images/main.png>)
