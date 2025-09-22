@@ -23,11 +23,10 @@ Una plataforma necesita manejar distintos tipos de usuarios (por ejemplo, Admini
 #### Acciones por rol
 
 - Administrador: puede bloquear/desbloquear usuarios.
-- Ver listado de usuarios con su rol y estado (activo/bloqueado).
+- Ver listado de usuarios (Tanto de admin como de clientes) con su rol y estado (activo/bloqueado).
 
-- Cliente: puede actualizar su información de contacto.
+- Cliente: puede actualizar su información su contacto.
 - Listado de clientes
-
 ### Requerimientos de POO (obligatorios)
 
 - Encapsulamiento
@@ -45,8 +44,6 @@ Bonus si usas ambas (recomendado).
 
 ### Reglas de negocio mínimas
 
-- Un usuario bloqueado no puede iniciar sesión.
-- El Administrador puede bloquear/desbloquear a otros usuarios (no a sí mismo).
 - El Cliente puede actualizar teléfono y dirección (validar que no sean vacíos).
 - El email debe tener formato simple válido (contener @ y un dominio).
 - La contraseña debe tener mínimo 6 caracteres.
